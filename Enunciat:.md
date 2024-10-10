@@ -1,2 +1,2 @@
-# Activitat-de-programador-de-tasques
+# Activitat de programador de tasques
 xaviiiii sancho
